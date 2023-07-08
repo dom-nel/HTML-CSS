@@ -1,0 +1,19 @@
+CSS Notes
+
+Pixels - absolute values, one dot on the screen 
+FONT-SIZE - size of the font
+WIDTH - width of an element
+HEIGHT - height of an element
+PERCENT- Relative UNIT/Value. Depends on the parent
+em - Relative, depends on parent
+1em - 16px default browser style
+1em = base value (16px) * number (1) = 16px
+2em = base value (16px) * number (2) = 32px
+2em = base value (10px) * number (2) = 20px
+rem - Relative, depends on root
+1rem = base value (16px) * number (1)
+
+ViewPort Units
+Not relative to the parent
+vh - height - percent of the screen
+vw - width - percent of the screen
